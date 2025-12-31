@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.d
+*.a
+*.elf
+*.bin
+*.map
+*.lst
+
+# SDK config
+sdkconfig
+sdkconfig.*
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
