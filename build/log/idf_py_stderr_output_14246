@@ -1,9 +1,0 @@
-Command: cmake -G Ninja -B /home/guillaume/esp/logic_analyzer/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/root/.espressif/python_env/idf6.1_py3.10_env/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /home/guillaume/esp/logic_analyzer
-Configuration Report               
- ───────────────────────────────── 
-   Parser Version: 1               
-   Verbosity: default              
-   Defaults policy: sdkconfig      
-   Status: Finished successfully   
-                                   
- ───────────────────────────────── 
